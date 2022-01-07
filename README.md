@@ -1,8 +1,8 @@
 ## Olá, eu sou o Renê
 
-- 👀 I’m interested in Developers
-- 🌱 I’m currently learning C#
-- 📫 How to reach me luiz-rener@hotmail.com or +5511985299970
+- 👀 Tenho interesse me tornoar um Desenvolvedor C#
+- 🌱 Atualmente estou estudando C#
+- 📫 Podem me contactar em: luiz-rener@hotmail.com ou +5511985299970
 
 <div align="center">
   <a href="https://github.com/renerilan">
