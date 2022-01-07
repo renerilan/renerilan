@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou estudando C#
 - 📫 Podem me contactar em: luiz-rener@hotmail.com ou +5511985299970
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/renerilan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renerilan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renerilan&layout=compact&langs_count=7&theme=dark"/>
 </div>
